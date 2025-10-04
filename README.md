@@ -1,6 +1,6 @@
 Hi, I'm Lateefah Ikeoluwa  
 
-**Aspiring Data Scientist in Finance | Financial Modeling & Predictive Analytics Enthusiast**
+**Data Scientist in Finance | Financial Modeling & Predictive Analytics Enthusiast**
 
 I'm passionate about applying data science and machine learning to solve problems in finance and investment. With a foundation in accounting and growing technical expertise, I love transforming complex financial data into meaningful insights and predictive models.  
 My focus areas include financial forecasting, portfolio optimization, risk prediction, and exploring how FinTech innovation can make finance smarter and more data-driven.  
